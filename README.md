@@ -1,6 +1,6 @@
 ## StudyShare
 ### share our study !!
-#### - Backend Repository
+#### - Backend Repository -
 <br>
 
 ```
@@ -8,6 +8,7 @@
 👏 Todo List 작성으로 스케쥴 관리
 👏 서로를 팔로우
 ```
+
 <br>
 
 #### logo Image
